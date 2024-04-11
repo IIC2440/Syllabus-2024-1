@@ -1,0 +1,5 @@
+kiwi: 200
+manzana: 150
+naranja: 250
+limón: 150
+melón: 300
