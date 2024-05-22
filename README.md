@@ -38,9 +38,9 @@ Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten 
 |01/05| **Receso PUC** | Descansar (o eso esperamos)|
 |08/05| Bases de Datos de Vectores | Actividad Evaluada |
 |15/05| Map - Reduce | Actividad  |
-|22/05| Map - Reduce | Enunciado Tarea 2 |
-|29/05| Grafos | Actividad  |
-|05/06| Grafos | Entrega Tarea 2 |
-|12/06| Grafos | Actividad Evaluada|
-|19/06| Pipelines de Datos | Charla Invitada |
+|22/05| Map - Reduce | Actividad |
+|29/05| Grafos | Enunciado Tarea 2  |
+|05/06| Grafos | Actividad |
+|12/06| Pipelines de Datos | Charla Invitada - Entrega Tarea 2 |
+|19/06| Grafos | Actividad Evaluada|
 |26/06| Otros Tópicos | - |
