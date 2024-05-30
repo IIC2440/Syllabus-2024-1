@@ -9,6 +9,14 @@ Los profesores del curso son:
 | Juan Reutter | jreutter@ing.puc.cl |
 | Adrián Soto | assoto@uc.cl |
 
+Los ayudantes del curso son:
+
+| 👨‍🏫 Nombre | 📧 Correo |
+|---|---|
+| Pablo Flores | ptflores1@uc.cl  |
+| Matías Fuentes | mdfuentes4@uc.cl  |
+| Agustín Urrutia | agustn.urrutia@uc.cl |
+
 ## Foro
 
 La página de [_Issues_](https://github.com/IIC2440/Syllabus-2024-1/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
